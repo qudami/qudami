@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @qudami
+- 👋 Hi, I’m @ALqudami
 - 👀 I’m interested in OFDM System Based on Deep Learning
 - 🌱 I’m currently learning ...coding
 - 💞️ I’m looking to collaborate on ...in improving the system and results
